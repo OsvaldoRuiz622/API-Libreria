@@ -7,16 +7,20 @@ Queremos crear nuestra app web, para que los clientes puedan conocer nuestro cat
 
 Requisitos
 Entidad Libro(book)
+
 •id:number
 •title: string•chapters: number –Representa el número de capítulos del libro.
 •pages: number –Representa la cantidad de páginas.
 •price: number –Precio del libro
+
 Entidad Autor (author)
 •id: number
 •name: string
 Debe existir una relación de 1 a muchos entre autoresy libros.
+
 API: 
 Deberás decrear los siguientesendpoints:
+
 1.Nuevo Libro:Creará un nuevo libro, aportando todos sus datos incluido el autor.
 2.Obtener todos los libros: Deberá devolver un listado de libros con sus autores.
 3.Consultar libro:Deberá devolver todos los datos de un libro en específico con base a su id.
