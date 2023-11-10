@@ -41,5 +41,5 @@ Deberás decrear los siguientesendpoints:
 Utilizando JavaScript para realizar la petición (fetch) de los datos.
 
 
-![LCaptura1]([https://github.com/tu-usuario/tu-repositorio/blob/main/images/mi-logo.png](https://github.com/OsvaldoRuiz622/API-Libreria/blob/main/CapturaSwagger%20API-Libreria.png)https://github.com/OsvaldoRuiz622/API-Libreria/blob/main/CapturaSwagger%20API-Libreria.png)
+![LCaptura1](https://github.com/OsvaldoRuiz622/API-Libreria/blob/main/CapturaSwagger%20API-Libreria.png)
 
