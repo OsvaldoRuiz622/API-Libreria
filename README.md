@@ -39,3 +39,7 @@ Deberás decrear los siguientesendpoints:
 5.Obtener todos los autores:Deberá devolver un listado de todos los autores con los libros que tengan.6.Generar una vista htmlen la que se muestre el listado de libros, con todos sus datos. 
 
 Utilizando JavaScript para realizar la petición (fetch) de los datos.
+
+
+![LCaptura1]([https://github.com/tu-usuario/tu-repositorio/blob/main/images/mi-logo.png](https://github.com/OsvaldoRuiz622/API-Libreria/blob/main/CapturaSwagger%20API-Libreria.png)https://github.com/OsvaldoRuiz622/API-Libreria/blob/main/CapturaSwagger%20API-Libreria.png)
+
