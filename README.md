@@ -43,3 +43,4 @@ Utilizando JavaScript para realizar la petición (fetch) de los datos.
 
 ![LCaptura1](https://github.com/OsvaldoRuiz622/API-Libreria/blob/main/CapturaSwagger%20API-Libreria.png)
 
+![LCaptura2](https://github.com/OsvaldoRuiz622/API-Libreria/blob/main/Captura%20Tabla%20Fetch%20libros.png)
